@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "yoshida-labo",
+  "private_key_id": "d9024a688d28e05d2fa78d907272387c2b51233c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeWrAeWJgy3ji5\nE6AeOaYa2KWBK1HtAHy4EPzmr0OH50S/6ZqqAzJrXtmBP+TrUD39fp3o8idQJfRN\n949dD167oQw3IXngvpOIueu4iF0r3lPynhczaB9OpemcIP7b4mRkTSsaynijqF8y\nTDcEYo110mGecekeujX9rziootfogfXCpFrxpDhvDadv5LKSp2N/V8fqLzBCaUwy\n2KoNg111LdGhLpWhJFFrU9LHDjEKH2WSY/pIGt7vUnN/SNVi07qNDq2uqnOG416+\n9X1FMTPaRn9o0zuSO63zrRJ86N3Is7EGiD3UBhh0UM3O7p1xqVwo396vbd1Wk2qV\nVQ+5e9BVAgMBAAECggEANOyrYyEKESo7PAQGpkNvNBbHTeH8GiFpDZ3D4JegEtpl\nHF0Hb53s6nzDZhLEQC9L4J7CSRoxsHRW7/324MvjxgLf0ccy9D3NkktNMJoGxcQj\nO3nB2FEK8Z668o8Gjtfd5LXz25ri8hOyaV2Wn7UOgVvke2+n0bi7lcNLxPTUA2Vw\nuggMT9ZX9vcxPuGw9mVuW3c3B7UwFMeK83BHvJwoXuvVhPKTKykMEYzV6i69jtBv\n7jsQbaxq+qbz8hcd8f37pg5GGQIbmQMrvG7pMdr4tSnzKVySdt6dCiHFkZ9ZJ1CQ\nUH0xJfeYaVA2TL0dy5kwAqozAkycIa052zzQN+sB6wKBgQDfmMOhbD+4TKFqUJlJ\nMYrQ8lDkCuV5/CoEp5IqoX8ZQZ8ui75JyqOh++NGA9NJzLl4m3sqt7A6J8X92aKj\nImDfmlat4b4Bqb3T5bdQSyAsWUSOH/3o59Uj8gR3LWMbEYVB8PrDRezL74iYdQbj\nFeK61+D+tB1hNf4omM0lPFlmawKBgQC1TXyguKQZ4DLokTVz0LxN6R/lVwTxyEhF\nOWma9xJMMd8r3dtme6J6NuzcIhLJ3MJQQTmreE6J+ptcMl4Wy9YO56/AdkBoUEu/\nD9cE6JRzO6s76YeVrWXDTt0L9o0n2MHlLmUGt5TKtIrIYdSTz2hcvy2kFSYEyBME\nKke44MHUPwKBgAx2kmj8BK08MD8h0PmAdnFhIFsltFbRVHI/+OjBabk5rCrHBUtN\nrUNJLAjqC6vwamIroHjoFj2Xm/SjXepj7yxniO9WRuYG1RrrkgU6usdeDnExnVCP\nI5VGVzNhZ0XJ+ziKux+JVUKkzmNZGpIr1SB/Cf6IgZ66iLkwkzbBH2aTAoGAbJnq\n0ndnzRwwQoFg7GwXr++6LG2Qx6f6KoU2jh37tuqUzTkLCHt8mwq1nTNH3+U9/Ebl\n3aGmIh6c24BMPgmBwtHjxDzRXerjRKKfYRBUhCY07yF3FyCT+YcO//CDI2BC3R6K\nY5iqJzY4f8miRZwS3qOiGkyUxn52baNJ7SOs148CgYEAiWruxNjMrM3cJ1lR/7lz\nRMk/IpbfvaZznZZw9y58UNcKd1GcRAN6gJMP8lsg0QGl9Uvr5i7Xy3XDRLGpPqDd\nrHhGtpEfLwvSCaLusyEOwswVYdlhz57mtbRPrLVfZNGtwizbPrCy2szMgPH+oXW/\ns7jgBBu9z5BXhqF0eocD9+E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-google@yoshida-labo.iam.gserviceaccount.com",
+  "client_id": "102262409463217999024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-google%40yoshida-labo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
